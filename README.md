@@ -1,2 +1,2 @@
-# MAG_Bench
-The benchmark MAG_Bench and the code workflow of MAG-Coder
+# ACES_Code
+The code workflow of ACES
